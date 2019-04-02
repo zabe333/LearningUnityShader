@@ -80,14 +80,13 @@
     <Compile Include="Assets\LowPolyNature\Scripts\PlayerController.cs" />
     <Compile Include="Assets\LowPolyNature\Scripts\PlayerFollow.cs" />
     <Compile Include="Assets\LowPolyNature\Scripts\Sheep.cs" />
-    <Compile Include="Assets\NewBehaviourScript.cs" />
-    <None Include="Assets\Shader\Dissolve.shader" />
-    <None Include="Assets\Shader\Specular_Frag.shader" />
-    <None Include="Assets\Shader\NewSurfaceShader.shader" />
-    <None Include="Assets\Shader\Specular_Vert.shader" />
-    <None Include="Assets\Shader\Materials\WorldSpace.shader" />
-    <None Include="Assets\Shader\RimLight.shader" />
-    <None Include="Assets\Shader\Diffuse.shader" />
+    <None Include="Assets\Learning\Shaders\Dissolve.shader" />
+    <None Include="Assets\Learning\Shaders\3_Specular_Frag.shader" />
+    <None Include="Assets\Learning\Shaders\2_Diffuse_HL.shader" />
+    <None Include="Assets\Learning\Shaders\4_Specular_Vert.shader" />
+    <None Include="Assets\Learning\Materials\WorldSpace.shader" />
+    <None Include="Assets\Learning\Shaders\RimLight.shader" />
+    <None Include="Assets\Learning\Shaders\1_Diffuse.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/UnityProj/LearningShader/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
